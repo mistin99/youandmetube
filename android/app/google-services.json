@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "941517077846",
+    "project_id": "youandmetube-ec84c",
+    "storage_bucket": "youandmetube-ec84c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941517077846:android:ad104ae8be222afd29aaf7",
+        "android_client_info": {
+          "package_name": "com.youandmetube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCSYb_37f8uQc9pP9hKfDIxES-04WQUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941517077846:android:33caa0e59a0ab23429aaf7",
+        "android_client_info": {
+          "package_name": "com.youandmetube.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCSYb_37f8uQc9pP9hKfDIxES-04WQUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
